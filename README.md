@@ -1,35 +1,43 @@
 <h1 align="center">Hi 👋, I'm Hoang Minh Duc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Final+Year+IT+Student;Web+Developer;Full+Stack+Learner;Building+Real+World+Projects&center=true&width=550&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Final+Year+IT+Student;Web+Developer;Full+Stack+Developer+in+Progress;Building+Real+World+Projects;Welcome+to+my+GitHub!" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoangduc215&label=Visitors&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=hoangduc215&label=Visitors&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/hoangduc215?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/hoangduc215?style=for-the-badge" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 Final-year Information Technology Student  
-🏫 Hue University of Sciences  
-
-💡 Interested in:
-- Web Development
-- Backend Systems
-- Software Engineering
-- Real-world Projects
-
-🚀 Current Goal:
-Become a **Full Stack Developer**
+🎓 Final-year IT Student at **Hue University of Sciences**  
+💻 Passionate about building **Web, Mobile, and Desktop Applications**  
+🔥 Interested in **Full Stack Development & Software Engineering**  
+🚀 Currently working on real-world projects
 
 ---
 
-# 🛠 Tech Stack
+# 🧠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,react,cpp,java,cs,python,flutter,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,react,cpp,java,cs,python,flutter,mysql&perline=7" />
+</p>
+
+---
+
+# 🏆 Developer Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hoangduc215&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduc215&theme=tokyonight&border_radius=10" height="180"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduc215&layout=compact&theme=tokyonight&border_radius=10"/>
 </p>
 
 ---
@@ -37,9 +45,9 @@ Become a **Full Stack Developer**
 # 🚀 Projects
 
 ## 🩺 Personal Health Tracking Website
-A web-based system designed to help users monitor and manage their personal health indicators.
+A web-based system designed to help users monitor and manage personal health indicators.
 
-Key Features:
+Features:
 - Heart rate tracking
 - BMI calculation
 - Blood pressure monitoring
@@ -54,13 +62,13 @@ HTML • CSS • JavaScript • PHP • SQL Server
 ## 📱 Mobile Phone & Accessories E-commerce Website
 An online store that allows users to browse and purchase mobile phones and accessories.
 
-Key Features:
+Features:
 - Product listing
-- Product details page
-- Shopping cart system
+- Product details
+- Shopping cart
 - Order placement
 - User profile management
-- Login and registration system
+- Login & registration system
 
 Tech Stack:
 HTML • CSS • JavaScript • Java • SQL Server
@@ -68,9 +76,9 @@ HTML • CSS • JavaScript • Java • SQL Server
 ---
 
 ## 📱 Mobile Phone Store Application
-A mobile application for selling mobile phones and accessories, similar to the web version of the store.
+A mobile application similar to the web version of the phone store.
 
-Key Features:
+Features:
 - Product listing
 - Product details
 - Shopping cart
@@ -83,13 +91,13 @@ Flutter • Dart • API
 ---
 
 ## 💻 Student Management Desktop Application
-A desktop application developed to manage student information efficiently.
+A desktop application developed to manage student information.
 
-Key Features:
+Features:
 - Student list management
-- Data loading and management
 - Add / Edit / Delete students
-- Import and Export data to Excel (.xlsx)
+- Import / Export Excel (.xlsx)
+- Data management system
 
 Tech Stack:
 C# • SQL Server
@@ -97,22 +105,23 @@ C# • SQL Server
 ---
 
 ## ⚽ Football Field Management Website
-A website designed to support football field booking and management.
+A web system for managing football field bookings.
 
-Key Features:
-- Football field listing
+Features:
+- Field listing
 - Booking interface
 - Schedule display
-- Customer information management
+- Customer information
 
 Tech Stack:
 HTML • CSS • JavaScript
+
 ---
 
-# 📈 Coding Activity Graph
+# 📈 Coding Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangduc215&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangduc215&theme=tokyo-night&border_radius=10" />
 </p>
 
 ---
@@ -128,9 +137,11 @@ HTML • CSS • JavaScript
 
 # 🌍 Connect With Me
 
-GitHub: https://github.com/hoangduc215  
-Location: Vietnam
+<p align="center">
+<a href="https://github.com/hoangduc215"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+<a href="#"><img src="https://img.shields.io/badge/Zalo-Contact-blue?style=for-the-badge"></a>
+</p>
 
 ---
 
-⭐ Always learning and building new projects.
+⭐ *Always learning and building new projects.*
