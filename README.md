@@ -1,23 +1,31 @@
 <h1 align="center">Hi 👋, I'm Hoang Minh Duc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Final+Year+IT+Student;Web+Developer;Full+Stack+Developer+in+Progress;Building+Real+World+Projects;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Final+Year+IT+Student;Web+Developer;Full+Stack+Developer+in+Progress;Building+Real+World+Projects;Welcome+to+my+GitHub+Profile" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoangduc215&label=Visitors&style=for-the-badge&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/hoangduc215?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/hoangduc215?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=hoangduc215&label=Visitors&style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/followers/hoangduc215?style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/hoangduc215?style=for-the-badge" />
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 🎓 Final-year IT Student at **Hue University of Sciences**  
 💻 Passionate about building **Web, Mobile, and Desktop Applications**  
-🔥 Interested in **Full Stack Development & Software Engineering**  
-🚀 Currently working on real-world projects
+🚀 Focused on becoming a **Full Stack Developer**  
+🔥 Interested in **Software Engineering & System Design**
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=hoangduc215&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
@@ -29,7 +37,7 @@
 
 ---
 
-# 🏆 Developer Stats
+# 📊 Developer Statistics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hoangduc215&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
@@ -37,7 +45,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduc215&layout=compact&theme=tokyonight&border_radius=10"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduc215&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -97,7 +105,6 @@ Features:
 - Student list management
 - Add / Edit / Delete students
 - Import / Export Excel (.xlsx)
-- Data management system
 
 Tech Stack:
 C# • SQL Server
@@ -118,18 +125,24 @@ HTML • CSS • JavaScript
 
 ---
 
-# 📈 Coding Activity
+# 📈 Coding Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangduc215&theme=tokyo-night&border_radius=10" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangduc215&theme=tokyo-night" />
 </p>
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/hoangduc215/hoangduc215/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 📚 Currently Learning
 
 - System Design
-- Backend Optimization
+- Backend Development
 - API Development
 - Advanced Web Development
 
@@ -138,10 +151,15 @@ HTML • CSS • JavaScript
 # 🌍 Connect With Me
 
 <p align="center">
-<a href="https://github.com/hoangduc215"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
-<a href="#"><img src="https://img.shields.io/badge/Zalo-Contact-blue?style=for-the-badge"></a>
+<a href="https://github.com/hoangduc215">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://zalo.me/YOUR_PHONE_NUMBER">
+<img src="https://img.shields.io/badge/Zalo-Contact-blue?style=for-the-badge">
+</a>
 </p>
 
 ---
 
-⭐ *Always learning and building new projects.*
+⭐ **Always learning and building new projects**
