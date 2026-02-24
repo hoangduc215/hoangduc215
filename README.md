@@ -21,31 +21,10 @@
 
 ---
 
-# 🏆 GitHub Achievements
+# 🛠 Tech Stack
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hoangduc215&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-# 🧠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,react,cpp,java,cs,python,flutter,mysql&perline=7" />
-</p>
-
----
-
-# 📊 Developer Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hoangduc215&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangduc215&theme=tokyonight&border_radius=10" height="180"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduc215&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,nodejs,react,cpp,java,cs,python,flutter,mysql" />
 </p>
 
 ---
@@ -53,9 +32,11 @@
 # 🚀 Projects
 
 ## 🩺 Personal Health Tracking Website
-A web-based system designed to help users monitor and manage personal health indicators.
 
-Features:
+A web-based system designed to help users monitor and manage their personal health indicators.
+
+Key Features:
+
 - Heart rate tracking
 - BMI calculation
 - Blood pressure monitoring
@@ -68,15 +49,17 @@ HTML • CSS • JavaScript • PHP • SQL Server
 ---
 
 ## 📱 Mobile Phone & Accessories E-commerce Website
+
 An online store that allows users to browse and purchase mobile phones and accessories.
 
-Features:
+Key Features:
+
 - Product listing
-- Product details
-- Shopping cart
+- Product details page
+- Shopping cart system
 - Order placement
 - User profile management
-- Login & registration system
+- Login and registration system
 
 Tech Stack:
 HTML • CSS • JavaScript • Java • SQL Server
@@ -84,9 +67,11 @@ HTML • CSS • JavaScript • Java • SQL Server
 ---
 
 ## 📱 Mobile Phone Store Application
-A mobile application similar to the web version of the phone store.
 
-Features:
+A mobile application for selling mobile phones and accessories, similar to the web version of the store.
+
+Key Features:
+
 - Product listing
 - Product details
 - Shopping cart
@@ -99,12 +84,15 @@ Flutter • Dart • API
 ---
 
 ## 💻 Student Management Desktop Application
-A desktop application developed to manage student information.
 
-Features:
+A desktop application developed to manage student information efficiently.
+
+Key Features:
+
 - Student list management
+- Data loading and management
 - Add / Edit / Delete students
-- Import / Export Excel (.xlsx)
+- Import and Export data to Excel (.xlsx)
 
 Tech Stack:
 C# • SQL Server
@@ -112,13 +100,15 @@ C# • SQL Server
 ---
 
 ## ⚽ Football Field Management Website
-A web system for managing football field bookings.
 
-Features:
-- Field listing
+A website designed to support football field booking and management.
+
+Key Features:
+
+- Football field listing
 - Booking interface
 - Schedule display
-- Customer information
+- Customer information management
 
 Tech Stack:
 HTML • CSS • JavaScript
@@ -133,16 +123,10 @@ HTML • CSS • JavaScript
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/hoangduc215/hoangduc215/blob/output/github-contribution-grid-snake.svg)
-
----
-
 # 📚 Currently Learning
 
 - System Design
-- Backend Development
+- Backend Optimization
 - API Development
 - Advanced Web Development
 
@@ -151,15 +135,31 @@ HTML • CSS • JavaScript
 # 🌍 Connect With Me
 
 <p align="center">
-<a href="https://github.com/hoangduc215">
-<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+<a href="https://github.com/hoangduc215" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://zalo.me/YOUR_PHONE_NUMBER">
-<img src="https://img.shields.io/badge/Zalo-Contact-blue?style=for-the-badge">
+<a href="mailto:hoangminhduc21052003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://facebook.com/hoangduc21503" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@hoangduc.2003" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://zalo.me/0329801850" target="_blank">
+<img src="https://img.shields.io/badge/Zalo-0068FF?style=for-the-badge&logo=zalo&logoColor=white"/>
+</a>
+
+<a href="https://tiktok.com/@hoangduc2105_" target="_blank">
+<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-⭐ **Always learning and building new projects**
+⭐ Always learning and building new projects.
