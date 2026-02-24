@@ -37,85 +37,76 @@ Become a **Full Stack Developer**
 # 🚀 Projects
 
 ## 🩺 Personal Health Tracking Website
-A web system for monitoring personal health indicators.
+A web-based system designed to help users monitor and manage their personal health indicators.
 
-Features:
+Key Features:
 - Heart rate tracking
 - BMI calculation
 - Blood pressure monitoring
 - Blood sugar tracking
 - Health statistics dashboard
 
-Tech:
-HTML • CSS • JavaScript • PHP • MySQL
+Tech Stack:
+HTML • CSS • JavaScript • PHP • SQL Server
 
 ---
 
 ## 📱 Mobile Phone & Accessories E-commerce Website
-Online store for selling phones and accessories.
+An online store that allows users to browse and purchase mobile phones and accessories.
 
-Features:
+Key Features:
 - Product listing
-- Product details
-- Shopping cart
-- Order system
+- Product details page
+- Shopping cart system
+- Order placement
+- User profile management
+- Login and registration system
 
-Tech:
-HTML • CSS • JavaScript • PHP • MySQL
+Tech Stack:
+HTML • CSS • JavaScript • Java • SQL Server
 
 ---
 
-## 📱 Android App – Mobile Phone Store
-Mobile app for selling phones and accessories.
+## 📱 Mobile Phone Store Application
+A mobile application for selling mobile phones and accessories, similar to the web version of the store.
 
-Features:
-- Product browsing
+Key Features:
+- Product listing
 - Product details
-- Shopping features
+- Shopping cart
+- Order placement
+- User account system
 
-Tech:
-Android Studio • Java • API
+Tech Stack:
+Flutter • Dart • API
 
 ---
 
 ## 💻 Student Management Desktop Application
-Desktop application for managing students.
+A desktop application developed to manage student information efficiently.
 
-Features:
+Key Features:
+- Student list management
+- Data loading and management
 - Add / Edit / Delete students
-- Search students
-- Data management
+- Import and Export data to Excel (.xlsx)
 
-Tech:
-C# / Java Desktop  
-SQL Server
+Tech Stack:
+C# • SQL Server
 
 ---
 
 ## ⚽ Football Field Management Website
-Web system for managing football field bookings.
+A website designed to support football field booking and management.
 
-Features:
-- Booking system
-- Schedule management
-- Customer information
-- Booking history
+Key Features:
+- Football field listing
+- Booking interface
+- Schedule display
+- Customer information management
 
-Tech:
-HTML • CSS • JavaScript • PHP • MySQL
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hoangduc215&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangduc215&layout=compact&theme=tokyonight" />
-</p>
-
+Tech Stack:
+HTML • CSS • JavaScript
 ---
 
 # 📈 Coding Activity Graph
@@ -123,12 +114,6 @@ HTML • CSS • JavaScript • PHP • MySQL
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoangduc215&theme=tokyo-night" />
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/hoangduc215/hoangduc215/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
